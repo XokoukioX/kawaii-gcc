@@ -1173,36 +1173,36 @@ msgstr "混...混蛋...里面一团糟..:"
 
 #: fortran/gfc-diagnostic.def:35
 msgid "Error"
-msgstr "错误"
+msgstr "工口发生"
 
 #: fortran/gfc-diagnostic.def:38
 msgid "anachronism"
-msgstr "历史遗留"
+msgstr "你要留着过年吗？！"
 
 #: gcc.cc:829 gcc.cc:833 gcc.cc:888
 #, fuzzy
 msgid "-gz is not supported in this configuration"
-msgstr "%s 不为这个配置所支持"
+msgstr "%s 这个姿势不支持喵（-gz）"
 
 #: gcc.cc:839 gcc.cc:899
 #, fuzzy
 msgid "-gz=zlib is not supported in this configuration"
-msgstr "弱引用在此配置下不受支持"
+msgstr "这个姿势..弱引用不可以啦！"
 
 #: gcc.cc:1092
 #, fuzzy
 msgid "-fuse-linker-plugin is not supported in this configuration"
-msgstr "弱引用在此配置下不受支持"
+msgstr "这个姿势..弱引用不可以啦！"
 
 #: gcc.cc:1108
 msgid "cannot specify -static with -fsanitize=address"
-msgstr ""
+msgstr "你敢用 -fsanitize=address 使唤我 -static大人?!"
 
 #: gcc.cc:1110
 #, fuzzy
 #| msgid "cannot specify -static with -fsanitize=thread"
 msgid "cannot specify -static with -fsanitize=hwaddress"
-msgstr "不能同时指定 -static 及 -fsanitize=thread"
+msgstr "不要在我的面前同时提起 -static 及 -fsanitize=thread！"
 
 #: gcc.cc:1112
 msgid "cannot specify -static with -fsanitize=thread"
@@ -1212,65 +1212,65 @@ msgstr "不能同时指定 -static 及 -fsanitize=thread"
 #, fuzzy
 #| msgid "weakref is not supported in this configuration"
 msgid "-fvtable-verify=std is not supported in this configuration"
-msgstr "弱引用在此配置下不受支持"
+msgstr "这个姿势..弱引用不可以啦！"
 
 #: gcc.cc:1136
 #, fuzzy
 #| msgid "weakref is not supported in this configuration"
 msgid "-fvtable-verify=preinit is not supported in this configuration"
-msgstr "弱引用在此配置下不受支持"
+msgstr "这个姿势..弱引用不可以啦！"
 
 #: gcc.cc:1273 ada/gcc-interface/lang-specs.h:37
 msgid "-pg and -fomit-frame-pointer are incompatible"
-msgstr "-pg 和 -fomit-frame-pointer 互不兼容"
+msgstr "-pg 和 -fomit-frame-pointer 一起？！会坏掉的~！！"
 
 #: gcc.cc:1443
 msgid "GNU C no longer supports -traditional without -E"
-msgstr "GNU C 不再支持不带 -E 的 -traditional"
+msgstr "你要是GNU C 再不带 -E 的的话就不要来见我了！ (-traditional)"
 
 #: gcc.cc:1452
 msgid "-E or -x required when input is from standard input"
-msgstr "当输入来自标准输入设备时，需要 -E 或 -x"
+msgstr "你在使用标准输入设备时为什么不带 -E 或 -x！?"
 
 #: config/darwin.h:151
 #, fuzzy
 #| msgid " conflicting code gen style switches are used"
 msgid "conflicting code generation switches"
-msgstr "使用了相互冲突的代码生成风格"
+msgstr "这是相互冲突的代码生成风格啊kora！"
 
 #: config/darwin.h:156
 msgid "-bundle_loader not allowed with -dynamiclib"
-msgstr "-bundle_loader 不能和 -dynamiclib 一起使用"
+msgstr "-bundle_loader 和 -dynamiclib 一起来会坏掉的~！"
 
 #: config/darwin.h:158
 msgid "-client_name not allowed with -dynamiclib"
-msgstr "-client_name 不能和 -dynamiclib 一起使用"
+msgstr "-client_name 和 -dynamiclib 一起来会坏掉的~！"
 
 #: config/darwin.h:167
 msgid "-keep_private_externs not allowed with -dynamiclib"
-msgstr "-keep_private_externs 不能和 -dynamiclib 一起使用"
+msgstr "-keep_private_externs 和 -dynamiclib 一起来会坏掉的~！"
 
 #: config/darwin.h:169
 msgid "-private_bundle not allowed with -dynamiclib"
-msgstr "-private_bundle 不能和 -dynamiclib 一起使用"
+msgstr "-private_bundle 和 -dynamiclib 一起来会坏掉的~！"
 
 #: config/darwin.h:177
 #, fuzzy
 #| msgid "-current_version only allowed with -dynamiclib"
 msgid "-compatibility_version only allowed with -dynamiclib"
-msgstr "-current_version 只能和 -dynamiclib 一起使用"
+msgstr "-current_version 只能和我 -dynamiclib 在一起！"
 
 #: config/darwin.h:179
 msgid "-current_version only allowed with -dynamiclib"
-msgstr "-current_version 只能和 -dynamiclib 一起使用"
+msgstr "-current_version 只能和我 -dynamiclib 在一起！"
 
 #: config/darwin.h:181
 msgid "-install_name only allowed with -dynamiclib"
-msgstr "-install_name 只能和 -dynamiclib 一起使用"
+msgstr "-install_name 只能和我 -dynamiclib 在一起！"
 
 #: config/darwin.h:192
 msgid "-bundle not allowed with -dynamiclib"
-msgstr "-bundle 不允许与 -dynamiclib 一起使用"
+msgstr "我才不想 -bundle 和 -dynamiclib 在一起！"
 
 #: config/darwin.h:208
 msgid "-force_flat_namespace not allowed with -dynamiclib"
@@ -1280,29 +1280,29 @@ msgstr "-force_flat_namespace 不能和 -dynamiclib 一起使用"
 #, fuzzy
 #| msgid "%qE attribute is not supported on this platform"
 msgid "gsplit-dwarf is not supported on this platform"
-msgstr "%qE属性在此平台上不受支持"
+msgstr "%qE属性在我这里不受支持哦~"
 
 #: config/darwin.h:277
 msgid "rdynamic is not supported"
-msgstr "不支持 rdynamic"
+msgstr "不喜欢 rdynamic！"
 
 #: config/dragonfly.h:76 config/i386/freebsd.h:82 config/i386/freebsd64.h:35
 #: config/ia64/freebsd.h:26 config/rs6000/sysv4.h:758 config/sparc/freebsd.h:45
 #, fuzzy
 msgid "consider using '-pg' instead of '-p' with gprof(1)"
-msgstr "与 gprof(1) 一起使用时请考虑使用‘-pg’以代替‘-p’"
+msgstr "使用 gprof(1) 时又忘记了‘-pg’以代替‘-p’呐~"
 
 #: config/lynx.h:69
 msgid "cannot use mthreads and mlegacy-threads together"
-msgstr "不能同时使用 mthreads 和 mlegacy-threads"
+msgstr "我不喜欢你 mthreads 和 mlegacy-threads一起鬼混！"
 
 #: config/lynx.h:94
 msgid "cannot use mshared and static together"
-msgstr "不能同时使用 mshared 和 static"
+msgstr "我不喜欢你 mshared 和 static一起鬼混！"
 
 #: config/sol2.h:350 config/sol2.h:355
 msgid "does not support multilib"
-msgstr "不支持 multilib"
+msgstr "我不喜欢 multilib！"
 
 #: config/sol2.h:449
 #, fuzzy
@@ -1311,7 +1311,7 @@ msgstr "%s 不为这个配置所支持"
 
 #: config/vxworks.h:204
 msgid "-Xbind-now and -Xbind-lazy are incompatible"
-msgstr "-Xbind-now 与 -Xbind-lazy 不兼容"
+msgstr "-Xbind-now 与 -Xbind-lazy 一起进来会坏掉的~"
 
 #: config/aarch64/aarch64-freebsd.h:37 config/arm/freebsd.h:49
 #: config/riscv/freebsd.h:44
@@ -1321,70 +1321,70 @@ msgstr "与 gprof(1) 一起使用时请考虑使用‘-pg’以代替‘-p’"
 
 #: config/arc/arc.h:68 config/mips/mips.h:1475
 msgid "may not use both -EB and -EL"
-msgstr "不能同时使用 -EB 和 -EL"
+msgstr "不要在我面前同时提起 -EB 和 -EL"
 
 #: config/avr/specs.h:71 config/pru/pru.h:58
 #, fuzzy
 msgid "shared is not supported"
-msgstr "%P%F：不支持 -shared\n"
+msgstr "%P%F 大人不喜欢 -shared 哦 \n"
 
 #: config/bfin/elf.h:55
 msgid "no processor type specified for linking"
-msgstr "没有指定链接用的处理器类型"
+msgstr "喂！告诉我怎么处理啊！"
 
 #: config/cris/cris.h:168
 msgid "do not specify both -march=... and -mcpu=..."
-msgstr "请勿同时指定 -march=... 和 -mcpu=..."
+msgstr "不要把 -march=... 和 -mcpu=... 混为一谈！你个笨蛋！"
 
 #: config/i386/cygwin-w64.h:64 config/i386/cygwin.h:138
 #: config/i386/mingw-w64.h:103 config/i386/mingw32.h:160
 msgid "shared and mdll are not compatible"
-msgstr "shared 和 mdll 互不兼容"
+msgstr "shared 和 mdll 不能一起进来！"
 
 #: config/i386/darwin.h:93
 #, fuzzy
 #| msgid "%qD is not a template"
 msgid "Darwin is not an mx32 platform"
-msgstr "%qD不是一个模板"
+msgstr "%qD不是一个东西啊喂！"
 
 #: config/i386/darwin.h:94
 msgid "Darwin does not support -mfentry or associated options"
-msgstr ""
+msgstr "Darwin 大人 -mfentry 和他的走狗！"
 
 #: config/i386/sol2.h:59
 #, fuzzy
 msgid "-mx32 is not supported on Solaris"
-msgstr "不支持"
+msgstr "不喜欢!"
 
 #: config/mcore/mcore.h:53
 msgid "the m210 does not have little endian support"
-msgstr "m210 不支持小端在前"
+msgstr "m210 小端先进来？看来真是杂鱼呢~"
 
 #: config/mips/r3900.h:37
 msgid "-mhard-float not supported"
-msgstr "不支持 -mhard-float"
+msgstr "不喜欢 -mhard-float！"
 
 #: config/mips/r3900.h:39
 msgid "-msingle-float and -msoft-float cannot both be specified"
-msgstr "不能同时指定 -msingle-float 和 -msoft-float"
+msgstr "不要再我面前同时提起 -msingle-float 和 -msoft-float两个混蛋！"
 
 #: config/moxie/moxiebox.h:43
 #, fuzzy
 #| msgid "Assume target CPU is configured as little endian"
 msgid "this target is little-endian"
-msgstr "假定目标 CPU 被配置为小端在前"
+msgstr "好吧..我们假设 CPU 的小端先进来吧~"
 
 #: config/msp430/msp430.h:90
 msgid "-mcode-region requires the large memory model (-mlarge)"
-msgstr ""
+msgstr "-mcode-region 需要更多才能填满哦~"
 
 #: config/msp430/msp430.h:92
 msgid "-mdata-region requires the large memory model (-mlarge)"
-msgstr ""
+msgstr "-mcode-region 需要更多才能填满哦~"
 
 #: config/nios2/elf.h:44
 msgid "You need a C startup file for -msys-crt0="
-msgstr ""
+msgstr "杂鱼连 C 启动文件都没有还想打动我吗~？ -msys-crt0="
 
 #: config/pa/pa-hpux10.h:102 config/pa/pa-hpux10.h:105
 #: config/pa/pa-hpux10.h:113 config/pa/pa-hpux10.h:116
@@ -1392,27 +1392,27 @@ msgstr ""
 #: config/pa/pa64-hpux.h:32 config/pa/pa64-hpux.h:41 config/pa/pa64-hpux.h:44
 #, fuzzy
 msgid "warning: consider linking with '-static' as system libraries with"
-msgstr "警告：考虑链接时使用‘-static’因为系统库"
+msgstr "为什么不在连接时想想‘-static’！你忘记系统库了吗？！"
 
 #: config/pa/pa-hpux10.h:103 config/pa/pa-hpux10.h:106
 #: config/pa/pa-hpux10.h:114 config/pa/pa-hpux10.h:117
 #: config/pa/pa-hpux11.h:135 config/pa/pa-hpux11.h:138 config/pa/pa64-hpux.h:30
 #: config/pa/pa64-hpux.h:33 config/pa/pa64-hpux.h:42 config/pa/pa64-hpux.h:45
 msgid "  profiling support are only provided in archive format"
-msgstr "取样支持只支持存档格式"
+msgstr "不是存档格式的取样我可不想要哦~"
 
 #: config/rs6000/darwin.h:123
 msgid " conflicting code gen style switches are used"
-msgstr "使用了相互冲突的代码生成风格"
+msgstr "大胆！居然敢用相互冲突的代码生成风格来敷衍我！"
 
 #: config/rs6000/freebsd64.h:114
 #, fuzzy
 msgid "consider using `-pg' instead of `-p' with gprof(1)"
-msgstr "与 gprof(1) 一起使用时请考虑使用‘-pg’以代替‘-p’"
+msgstr "使用 gprof(1) 时又忘记了‘-pg’以代替‘-p’呐~"
 
 #: config/rs6000/rs6000.h:170
 msgid "Missing -mcpu option in ASM_CPU_SPEC?"
-msgstr ""
+msgstr "ASM_CPU_SPEC中缺少 -mcpu 选项！"
 
 #: config/rx/linux.h:53 config/rx/rx.h:82
 msgid "rx200 cpu does not have FPU hardware"
@@ -1420,7 +1420,7 @@ msgstr "RX200 CPU 没有 FPU 硬件"
 
 #: config/rx/rx.h:80
 msgid "-mas100-syntax is incompatible with -gdwarf"
-msgstr "-mas100-syntax 与 -gdwarf 不兼容"
+msgstr "-mas100-syntax 和 -gdwarf 一起进来会坏掉的"
 
 #: config/rx/rx.h:81
 #, fuzzy
@@ -1433,52 +1433,52 @@ msgstr "TPF-OS 不支持 static"
 
 #: config/sh/sh.h:299 config/sh/sh.h:302
 msgid "SH2a does not support little-endian"
-msgstr "SH2a 不支持小端在前"
+msgstr "SH2a 喜欢大端先来哦~"
 
 #: config/sparc/linux64.h:142
 #, fuzzy
 msgid "-fsanitize=address is not supported in this configuration"
-msgstr "%s 不为这个配置所支持"
+msgstr "%s 并不喜欢它这个杂鱼酱"
 
 #: config/sparc/linux64.h:156 config/sparc/linux64.h:162
 #: config/sparc/netbsd-elf.h:108 config/sparc/netbsd-elf.h:117
 #: config/sparc/sol2.h:237 config/sparc/sol2.h:243
 msgid "may not use both -m32 and -m64"
-msgstr "不能同时使用 -m32 和 -m64"
+msgstr " -m32 和 -m64一起来会坏掉的！"
 
 #: config/tilegx/tilegx.h:520 config/tilegx/tilegx.h:525
 msgid "-mbig-endian and -mlittle-endian may not be used together"
-msgstr "-mbig-endian 和 -mlittle-endian 不能一起使用"
+msgstr "-mbig-endian 和 -mlittle-endian 一起进来会坏掉的"
 
 #: config/vax/netbsd-elf.h:51
 msgid "the -shared option is not currently supported for VAX ELF"
-msgstr "-shared 选项目前在 VAX ELF 下不受支持"
+msgstr "-shared 选项在 VAX ELF 大人的领地里不受欢迎呢"
 
 #: config/vax/vax.h:46 config/vax/vax.h:47
 msgid "profiling not supported with -mg"
-msgstr "取样不支持 -mg"
+msgstr "取样酱不喜欢 -mg！"
 
 #: ada/gcc-interface/lang-specs.h:38
 msgid "-c or -S required for Ada"
-msgstr "Ada 需要指定 -c 或 -S"
+msgstr "Ada大人 需要 -c 或 -S来满足！"
 
 #: ada/gcc-interface/lang-specs.h:56
 #, fuzzy
 msgid "-c required for gnat2why"
-msgstr "Ada 需要指定 -c 或 -S"
+msgstr "Ada大人 需要 -c 或 -S来满足！"
 
 #: ada/gcc-interface/lang-specs.h:67
 #, fuzzy
 msgid "-c required for gnat2scil"
-msgstr "Ada 需要指定 -c 或 -S"
+msgstr "Ada大人 需要 -c 或 -S来满足！"
 
 #: fortran/lang-specs.h:60 fortran/lang-specs.h:74
 msgid "gfortran does not support -E without -cpp"
-msgstr "gfortran 不支持单独使用 -E 而不带 -cpp"
+msgstr "gfortran 喜欢 -E 和 -cpp 一起来哦！"
 
 #: objc/lang-specs.h:30 objc/lang-specs.h:41
 msgid "GNU Objective C no longer supports traditional compilation"
-msgstr "GNU Objective C 不再支持传统编译"
+msgstr "GNU Objective C 背叛了我们的传统！"
 
 #: objc/lang-specs.h:55
 #, fuzzy
@@ -1494,31 +1494,31 @@ msgstr "objc ++-cpp-output 被不宜用；请使用 objective-c++-cpp-output 作
 #, fuzzy, no-c-format
 #| msgid "-J<directory>\tPut MODULE files in 'directory'"
 msgid "-J<directory>\tPut MODULE files in 'directory'."
-msgstr "-J<目录>\t将 MODULE 文件放入目录"
+msgstr "-J<目录>\t快把 MODULE 文件放入目录啊笨蛋！"
 
 #: fortran/lang.opt:198
 #, fuzzy, no-c-format
 #| msgid "Warn about possible aliasing of dummy arguments"
 msgid "Warn about possible aliasing of dummy arguments."
-msgstr "为可能的虚参重叠给出警告"
+msgstr "笨...笨蛋..才不会告诉你虚参可能会重叠呢"
 
 #: fortran/lang.opt:202
 #, fuzzy, no-c-format
 #| msgid "Warn about alignment of COMMON blocks"
 msgid "Warn about alignment of COMMON blocks."
-msgstr "对 COMMON 块对齐的警告"
+msgstr "笨...笨蛋... COMMON块要对齐了"
 
 #: fortran/lang.opt:206
 #, fuzzy, no-c-format
 #| msgid "Warn about missing ampersand in continued character constants"
 msgid "Warn about missing ampersand in continued character constants."
-msgstr "若延续字符常量中缺少 & 则给出警告"
+msgstr "缺少 & 啊笨蛋"
 
 #: fortran/lang.opt:210
 #, fuzzy, no-c-format
 #| msgid "Warn about creation of array temporaries"
 msgid "Warn about creation of array temporaries."
-msgstr "创建临时数组时给出警告"
+msgstr "笨蛋..临时数组才不会一直记住你呢！"
 
 #: fortran/lang.opt:214 fortran/lang.opt:535 config/alpha/alpha.opt:31
 #: common.opt:680 common.opt:822 common.opt:1060 common.opt:1064
@@ -1527,29 +1527,29 @@ msgstr "创建临时数组时给出警告"
 #: common.opt:3137
 #, no-c-format
 msgid "Does nothing. Preserved for backward compatibility."
-msgstr "不起作用。为向前兼容保留的选项。"
+msgstr 哒咩！前辈们有时也会来拜访我们的！"
 
 #: fortran/lang.opt:218
 #, no-c-format
 msgid "Warn if the type of a variable might be not interoperable with C."
-msgstr ""
+msgstr "如果变量的类型可能无法与 C 进行互操作，则发出警告。"
 
 #: fortran/lang.opt:226
 #, fuzzy, no-c-format
 #| msgid "Warn about truncated character expressions"
 msgid "Warn about truncated character expressions."
-msgstr "对被截断的字符表达式给出警告"
+msgstr "有字符表达式似乎要被无情的截断了呢~猜猜是谁干的呢~"
 
 #: fortran/lang.opt:230
 #, no-c-format
 msgid "Warn about equality comparisons involving REAL or COMPLEX expressions."
-msgstr ""
+msgstr "警告涉及 REAL 或 COMPLEX 表达式的相等性比较。"
 
 #: fortran/lang.opt:238
 #, fuzzy, no-c-format
 #| msgid "Warn about most implicit conversions"
 msgid "Warn about most implicit conversions."
-msgstr "对大多数隐式类型转换给出警告"
+msgstr "对大多数隐式类型转换给出警告 喂！！"
 
 #: fortran/lang.opt:242
 #, fuzzy, no-c-format
