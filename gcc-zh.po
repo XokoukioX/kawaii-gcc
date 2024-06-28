@@ -1527,7 +1527,7 @@ msgstr "笨蛋..临时数组才不会一直记住你呢！"
 #: common.opt:3137
 #, no-c-format
 msgid "Does nothing. Preserved for backward compatibility."
-msgstr 哒咩！前辈们有时也会来拜访我们的！"
+msgstr "哒咩！前辈们有时也会来拜访我们的！"
 
 #: fortran/lang.opt:218
 #, no-c-format
